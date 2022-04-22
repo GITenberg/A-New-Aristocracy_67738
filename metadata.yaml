@@ -1,0 +1,26 @@
+_repo: A-New-Aristocracy_67738
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Birch
+    gutenberg_agent_id: '54432'
+    url: http://www.gutenberg.org/2009/agents/54432
+description: ''
+gutenberg_issued: '2022-03-30'
+identifiers:
+  gutenberg: '67738'
+language: en
+pgterms:marc904: https://archive.org/details/newaristocracy00bart
+pgterms:marc905: 20190314150001birch
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Bartlett Publishing Company,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A New Aristocracy
+url: http://www.gutenberg.org/ebooks/67738
